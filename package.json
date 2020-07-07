@@ -7,7 +7,7 @@
     "publish": "build --win --ia32 --x64 -p always"
   },
   "devDependencies": {
-    "electron": "^1.8.8",
+    "electron": "^9.1.0",
     "electron-builder": "^19.43.3"
   },
   "dependencies": {
